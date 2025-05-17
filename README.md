@@ -12,7 +12,7 @@ This project aims to predict house prices in Boston using the Boston dataset by 
 - "HousingData.csv" — The dataset file.
 - "README.md" — This project summary.
 
-##Challenges:
+##Challenges
 
 Missing value treatment
 Outlier treatment
