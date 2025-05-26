@@ -16,10 +16,28 @@ This project aims to predict house prices in Boston using the Boston dataset by 
 - "README.md" — This project summary.
 
 ## Challenges
-
 Missing value treatment
 Outlier treatment
 Understanding which variables drive the price of homes in Boston
+
+## Tools Used
+- Python, Pandas, scikit-learn
+- JIRA for Agile task tracking
+- Google Colab
+- GitHub
+
+ ## Tasks Tracked in JIRA
+- Import dataset
+- Handle missing values
+- Handle outliers
+- Data visualization
+- Train/test split
+- Build and evaluate regression model
+- Save model
+- Push final project to GitHub
+
+## 📸 JIRA Board Progress
+![JIRA Screenshot](JIRA-board1.png to JIRA-board5.png)
 
 ## Summary of data set
 The Boston housing dataset contains 506 observations and 14 variables. The dataset contains missing values.
