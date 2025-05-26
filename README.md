@@ -37,7 +37,7 @@ Understanding which variables drive the price of homes in Boston
 - Push final project to GitHub
 
 ## 📸 JIRA Board Progress
-![JIRA Screenshot](JIRA-board1.png to JIRA-board5.png)
+JIRA Screenshots captured (JIRA-board1.png to JIRA-board5.png)
 
 ## Summary of data set
 The Boston housing dataset contains 506 observations and 14 variables. The dataset contains missing values.
